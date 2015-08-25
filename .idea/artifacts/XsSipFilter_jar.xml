@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="XsSipFilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XsSipFilter_jar</output-path>
+    <root id="archive" name="XsSipFilter.jar">
+      <element id="module-output" name="XsSipFilter" />
+      <element id="extracted-dir" path="C:/lib/java/antlr4/antlr-4.5-complete.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
